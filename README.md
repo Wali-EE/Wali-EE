@@ -1,6 +1,6 @@
 - 👋 Salut, je suis @Wali-EE
-- 👀 Je suis interesser par le python, l'HTML et CSS
-- 🌱 j'apprends actuellement le HTML, CSS et PYTHON
+- 👀 Je suis interesser par le JavaScript, l'HTML et CSS
+- 🌱 j'apprends actuellement le HTML, CSS.
 - 💞️ Je cherche à collaborer sur rien.
 - 📫 Me contacter par discord : Wali-EE#6666
 - 💌 Site : https://linktr.ee/waliee
